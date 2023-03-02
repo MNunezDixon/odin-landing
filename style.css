@@ -145,3 +145,52 @@ h3{
     justify-content: flex-end;
     margin-right: 460px;
 }
+
+.fourth-section{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container{
+    background-color:#3882f6;
+    width: 75%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    width: 60%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h4{
+    font-size: 24px;
+    color: white; 
+}
+
+.p-fourth{
+    color: white;
+    font-size: 18px;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+
+.btn-fourth-div{
+    background-color: #3882f6;
+    color: white;
+    width: 90px;
+    height: 25px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
